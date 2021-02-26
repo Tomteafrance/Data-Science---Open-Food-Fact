@@ -1,6 +1,6 @@
 # Data-Science - Open Food Facts
 
-<p align="center"><img width="50%" src="OpenFoodFacts.png" /></p>
+<p align="center"><img width="50%" src="./images/OpenFoodFacts.png" /></p>
 
 ## What is Open Food Facts ? 
 
@@ -32,9 +32,9 @@ It has five main fields :
 
 We want to define the brands that sold the healthiest products. So we make a ranking based on the nutrition score.
 
-<p align="center"><img width="50%" src="nutriscore.png" /></p>
+<p align="center"><img width="50%" src="./images/nutriscore.png" /></p>
 
-<p align="center"><img width="70%" src="Score_Points.png" /></p>
+<p align="center"><img width="70%" src="./images/Score_Points.png" /></p>
 
 ## Copyright & License 
 
