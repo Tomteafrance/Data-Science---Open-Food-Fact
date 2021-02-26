@@ -34,7 +34,7 @@ We want to define the brands that sold the healthiest products. So we make a ran
 
 <p align="center"><img width="50%" src="nutriscore.png" /></p>
 
-<p align="center"><img width="50%" src="Score_Points.png" /></p>
+<p align="center"><img width="70%" src="Score_Points.png" /></p>
 
 ## Copyright & License 
 
