@@ -1,6 +1,8 @@
-# Data-Science - Open Food Fact
+# Data-Science - Open Food Facts
 
-## What is Open Food Fact ? 
+<p align="center"><img width="100%" src="OpenFoodFactsLogo.svg" /></p>
+
+## What is Open Food Facts ? 
 
 A food products database. There are informations on ingredients, nutritional information, labels. The data comes from crowdsourcing, a data made by everyone, for everyone.
 
